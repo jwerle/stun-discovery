@@ -1,0 +1,33 @@
+{
+  "name": "stun-discovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "stun",
+    "ice",
+    "discovery",
+    "swarm",
+    "webrtc",
+    "web",
+    "rtc",
+    "peer",
+    "distributed",
+    "decentralized"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "randombytes": "^2.0.6",
+    "stun": "^1.1.0"
+  },
+  "devDependencies": {
+    "signalhub": "^4.9.0",
+    "webrtc-swarm": "^2.9.0",
+    "wrtc": "0.0.65"
+  }
+}
